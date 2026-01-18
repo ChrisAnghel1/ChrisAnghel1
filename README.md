@@ -72,10 +72,11 @@ Snowboarding • Watersports • Traveling • Investing
 
 ---
 
-## 📫 Connect
+## 🗣️ Languages
 
-**LinkedIn:** [linkedin.com/in/chris-anghel](https://linkedin.com/in/chris-anghel)  
-**Email:** angh0018@mylaurier. ca
+**English:** Fluent  
+**French:** Conversational  
+**Romanian:** Conversational
 
 ---
 
