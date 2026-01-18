@@ -79,12 +79,6 @@ Snowboarding • Watersports • Traveling • Investing
 
 ---
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisAnghel1&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-</div>
-
 <!--
 **ChrisAnghel1/ChrisAnghel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
