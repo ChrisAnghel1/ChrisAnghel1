@@ -74,8 +74,8 @@ Currently exploring **AI engineering**, **LLM integrations**, and **scalable bac
 
 ## 💡 Highlights
 
-- **API-First Mindset:** Extensive experience integrating third-party APIs (Gmail, OpenAI) and building scalable REST APIs with FastAPI
-- **Full-Stack Delivery:** Shipped production features end-to-end — from React frontends to FastAPI backends and PostgreSQL data models
+- **API-First Mindset:** Experience integrating third-party APIs (Gmail, OpenAI) and building scalable REST APIs with FastAPI
+- **Full-Stack Delivery:** Helped ship production features end-to-end — from React frontends to FastAPI backends and PostgreSQL data models
 - **Automation & Data Engineering:** Built intelligent workflows processing large datasets (500+ emails, 90% speedup) with safety guardrails and actionable insights
 
 ---
