@@ -6,7 +6,8 @@ Currently exploring **AI engineering**, **LLM integrations**, and **scalable bac
 
 ## 🧭 Now
 
-- Completing BSc Computer Science @ **Wilfrid Laurier University** (Dec 2026)
+- Completing BSc Computer Science @ **Wilfrid Laurier University** (June 2027)
+- Internal AI Developer Intern @ D2L (Summer 2026)
 - Building AI-powered tools and full-stack applications
 - Sharpening skills in **FastAPI**, **React**, and **cloud infrastructure** (GCP)
 - Interested in roles:   **SWE**, **AI/ML Engineer**, **Backend/Fullstack Developer**
