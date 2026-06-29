@@ -39,14 +39,15 @@ Currently exploring **AI engineering**, **LLM integrations**, and **scalable bac
 
 ## 🚀 Featured Projects
 
-### **FareShare – Carpooling Web App**
-*Full-stack ride-sharing platform with real-time matching and user reviews*
+### **FinCopilot – Conversational Finance Copilot**
+*Collaborative hackathon project focused on helping students make smarter financial decisions*
 
-- Built end-to-end ride-sharing application using **FastAPI (Python)**, **React**, and **PostgreSQL**, delivering core workflows for ride creation and matching
-- Delivered iteratively using **Agile methodologies** (sprints, milestones), collaborating to prioritize features and ship on schedule
-- Implemented core UI flows (user sign-up, ride search) and integrated backend APIs to support reliable end-to-end user journeys
-- Developed full-stack, **bi-directional driver/rider reviews and ratings**, enabling post-ride feedback to improve platform trust and quality signals
-- **Stack:** TypeScript, Python, FastAPI, React, PostgreSQL
+- Built chat-based financial onboarding to collect user context and personalize guidance
+- Created a live financial profile backed by **Supabase** for persistent tracking
+- Implemented issue detection for risky spending and weak savings behaviors
+- Added what-if simulations to compare before/after net-worth outcomes over time
+- Integrated an optional browser-agent research workflow for deeper issue investigation
+- **Stack:** Next.js, React, Tailwind CSS, FastAPI, OpenAI API, Supabase, Playwright
 
 ### **CourseAlign – RAG-Powered Study Guide API**
 *Production FastAPI backend that transforms lecture slides into grounded study guides using textbook retrieval*
@@ -59,13 +60,14 @@ Currently exploring **AI engineering**, **LLM integrations**, and **scalable bac
 - Secured POST endpoints with **Bearer token authentication**
 - **Stack:** Python, FastAPI, FAISS, OpenAI API, DOCX generation
 
-### **Gmail Cleanup Automation Tool**
-*Intelligent email automation tool with safety-first bulk processing*
+### **FareShare – Carpooling Web App**
+*Full-stack ride-sharing platform with real-time matching and user reviews*
 
-- Prototyped automation tool using **Python + Gmail API**, safely identifying and trashing **500+ unread emails per run** via deterministic safety rules
-- Improved large-inbox processing by **~90%** using API batching and **Pandas** for high-speed storage and category analysis (data preprocessing + cleaning)
-- Added **"Intelligent Insights" outputs** (MB/GB storage savings) and automated List-Unsubscribe extraction via regex, producing actionable reporting for inbox optimization
-- **Stack:** Python, Gmail API, OAuth 2.0, Pandas
+- Built end-to-end ride-sharing application using **FastAPI (Python)**, **React**, and **PostgreSQL**, delivering core workflows for ride creation and matching
+- Delivered iteratively using **Agile methodologies** (sprints, milestones), collaborating to prioritize features and ship on schedule
+- Implemented core UI flows (user sign-up, ride search) and integrated backend APIs to support reliable end-to-end user journeys
+- Developed full-stack, **bi-directional driver/rider reviews and ratings**, enabling post-ride feedback to improve platform trust and quality signals
+- **Stack:** TypeScript, Python, FastAPI, React, PostgreSQL
 
 ---
 
