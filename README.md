@@ -48,6 +48,17 @@ Currently exploring **AI engineering**, **LLM integrations**, and **scalable bac
 - Developed full-stack, **bi-directional driver/rider reviews and ratings**, enabling post-ride feedback to improve platform trust and quality signals
 - **Stack:** TypeScript, Python, FastAPI, React, PostgreSQL
 
+### **CourseAlign – RAG-Powered Study Guide API**
+*Production FastAPI backend that transforms lecture slides into grounded study guides using textbook retrieval*
+
+- Indexed textbook PDFs into vector embeddings with **FAISS** for semantic retrieval
+- Implemented **RAG retrieval** to fetch the most relevant textbook chunks by concept
+- Processed **PPTX slides** (titles, bullets, speaker notes) to extract key lecture concepts
+- Generated AI-powered study guides with **grounded textbook citations** and confidence signals
+- Exported polished guides as structured **DOCX** documents
+- Secured POST endpoints with **Bearer token authentication**
+- **Stack:** Python, FastAPI, FAISS, OpenAI API, DOCX generation
+
 ### **Gmail Cleanup Automation Tool**
 *Intelligent email automation tool with safety-first bulk processing*
 
